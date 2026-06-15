@@ -8,7 +8,7 @@
 **DOMAIN** : FRONTEND WEB DEVELOPMENT 
 
 **INTERNSHIP PERIOD** : 17 MAY 2026 - 28 JUNE 2026 (6 WEEKS)
-<a href="https://korikanasrija.github.io/Digital-clock/">➡️Personl portfolio</a>
+<a href="https://korikanasrija.github.io/Digital-clock/">➡️Digital Clock</a>
 
 **Front end development**:
 Front end development is the practice of creating the part of a website or web application that users interact with directly. It involves everything you see and experience on the screen—such as layouts, buttons, images, text, navigation menus, animations, and overall visual design.
@@ -38,4 +38,22 @@ CSS-Styling & Layout
     -Colors (blue/purple), flexbox layout, animations
 JavaScript-Interactivity	
           -Click events, section switching, typing effect
-How They Work Together:
+A modern, responsive digital clock web application that provides a real-time display of the current time. This project focuses on clean UI design and efficient DOM manipulation using vanilla JavaScript.
+
+🚀 Key Features
+Live Time Updates: Precise tracking of hours, minutes, and seconds using JavaScript intervals.
+
+Dynamic Date Display: Includes the current day, month, and year for a complete time-tracking experience.
+
+Responsive Design: Styled with CSS Flexbox to ensure the clock looks great on mobile, tablet, and desktop screens.
+
+Glassmorphism UI: Features a modern "frosted glass" aesthetic with subtle gradients and blur effects.
+
+🛠️ Technical Highlights
+In this project, I focused on a few core web development concepts:
+
+The setInterval() Method: Used to trigger the time update function every 1000 milliseconds to ensure the clock never lags.
+
+Zero-Padding Logic: Implemented a helper function to ensure that single-digit numbers (like 5 seconds) are displayed with a leading zero (05).
+
+CSS Transitions: Utilized smooth transitions for hover states to enhance user interaction.
